@@ -1,5 +1,5 @@
 # alx-udacity-data-analyst-nanodegree
-Udacity Data analyst Nanodegree - Project 2
+Udacity Data Analyst Nanodegree - Project 2
 
 In this project, I gathered 3 datasets from 3 different sources, including using the tweepy library to access the Twitter API. 
 I identified 8 data quality issues and 2 tidiness issues which I then cleaned using the define, code and test methodology.
