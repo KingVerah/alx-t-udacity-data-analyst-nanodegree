@@ -1,0 +1,9 @@
+# Wrangle Act File
+`wrangle_act.ipynb` is the project file which contains the code for gathering, cleaning, assessing, storing and analysing the data.
+
+# Wrangle Report File
+`wrangle_report.ipynb` is the project file that details the data wrangling process, how the data was gathered and from where. It also details how the data was cleaned,
+assessed and stored. Lastly, it highlights the insights and visualisations we made from the cleaned data.
+
+# Act Report File
+`act_report.ipynb` is the project file that's written as a blog post which details the insights and visualisations we made from the data we had gathered, cleaned and assessed.
