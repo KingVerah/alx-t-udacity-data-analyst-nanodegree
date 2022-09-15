@@ -2,6 +2,7 @@
 
 ## Description
 This is the repository for my project files for the Udacity Data Analyst Nanodegree Program.
+>
 Libraries used:
 * Project 1 - Numpy, Pandas, Matplotlib, Seaborn.
 * Project 2 - Numpy, Pandas, Matplotlib, Seaborn, Requests, Time, Tweepy, JSON.
