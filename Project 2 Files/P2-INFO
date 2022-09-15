@@ -7,3 +7,5 @@ assessed and stored. Lastly, it highlights the insights and visualisations we ma
 
 # Act Report File
 `act_report.ipynb` is the project file that's written as a blog post which details the insights and visualisations we made from the data we had gathered, cleaned and assessed.
+
+BOTH wrangle_report and act_report were submitted as html files.
