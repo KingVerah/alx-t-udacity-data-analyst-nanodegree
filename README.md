@@ -15,4 +15,4 @@ The following are the project topics:
 
 
 ## Data Analyst Nanodegree Certificate of Completion
-NOTE: TO BE ADDED ONCE PROGRAM IS COMPLETED.
+**NOTE: TO BE ADDED ONCE PROGRAM IS COMPLETED.**
