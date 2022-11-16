@@ -16,4 +16,5 @@ The following are the project topics:
 2. Project 2 - Wrangle and Analyse Data
 3. Project 3 - Data Visualisation
 
-[Data Analyst Nanodegree Certificate of Completion](https://github.com/KingVerah/alx-t-udacity-data-analyst-nanodegree/files/10017674/Kudakwashe.Verah-Data.Analyst.Nanodegree.pdf)
+
+![Kudakwashe Verah-Data Analyst Nanodegree-1](https://user-images.githubusercontent.com/59296483/202071218-a808ca30-a362-4632-ab9d-1abcf9753944.png)
